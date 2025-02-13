@@ -2,7 +2,7 @@
 
 ###
 # Data Analyst Portfolio
-Hi there, I'm Florence Koh-Visser, and I'm transitioning from customer management and project coordination to dynamic role in Information Technology. I have a particular interest in roles such as Business/Process Analyst and System Administrator. This repository showcases my projects and learning journey in SQL, Excel, and PowerBI.
+Hi there, I'm Florence Koh-Visser, and I'm transitioning from customer management and project coordination to dynamic role in Information Technology. I have particular interest in roles such as Business/Process Analyst and System Administrator. This repository showcases my projects and learning journey in SQL, Excel, and PowerBI.
 
 - 🔭 I’m currently working on [Project#1 - Customer Churn Analysis](https://github.com/fkpl81/Customer-Churn-Analysis)
 
