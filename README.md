@@ -1,5 +1,6 @@
 
 
+![Florence Koh-Visser](https://github.com/user-attachments/assets/d09e82f4-fda4-435e-a341-9e5de4f00d80)
 ###
 # Data Analyst Portfolio
 Hi there, I'm Florence Koh-Visser, and I'm transitioning from customer management and project coordination to dynamic role in Information Technology. I have particular interest in roles such as Business/Process Analyst and System Administrator. This repository showcases my projects and learning journey in SQL, Excel, and PowerBI.
